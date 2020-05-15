@@ -19,7 +19,7 @@ note : 13/16
     ╭———————— Kitchen id:0 Status ————————╮
               Ingredients stock:
 	           tomato : 1
-                     doe : 1
+                    doe : 1
 	           gruyere : 1
 	             ham : 1
 	           mushrooms : 1
@@ -36,7 +36,7 @@ note : 13/16
     ╭———————— Kitchen id:1 Status ————————╮
               Ingredients stock:
 	           tomato : 1
-                     doe : 1
+                    doe : 1
 	           gruyere : 1
 	             ham : 1
 	           mushrooms : 1
