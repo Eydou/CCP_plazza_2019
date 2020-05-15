@@ -12,8 +12,6 @@ Synchronization of processes, threads and communication
 
 ## Test
 
-note : 13/16
-
     ./plazza 2 5 2000
     
     Welcome to Plazza !
