@@ -3,8 +3,11 @@
 ## Objective
 
 Create a pizza restaurant simulation
+
 Create a receipt that accepts new orders
+
 Manage various issues, including kitchen balancing
+
 Synchronization of processes, threads and communication
 
 ## Test
