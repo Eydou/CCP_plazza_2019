@@ -1,6 +1,6 @@
 # CCP_plazza_2019
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fa3f131b5cf245cbbec90d206e437e9d)](https://app.codacy.com/manual/Eydou/CCP_plazza_2019?utm_source=github.com&utm_medium=referral&utm_content=Eydou/CCP_plazza_2019&utm_campaign=Badge_Grade_Dashboard) ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fa3f131b5cf245cbbec90d206e437e9d)](https://app.codacy.com/manual/Eydou/CCP_plazza_2019?utm_source=github.com&utm_medium=referral&utm_content=Eydou/CCP_plazza_2019&utm_campaign=Badge_Grade_Dashboard)               ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
 
 ## Objective
 
